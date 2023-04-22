@@ -4,8 +4,8 @@ Some useful code fragments~
 
 ## How to use it
 
-Move `./.vimrc` to `~/.vimrc`
-Move `./tmux.conf` to `~/.tmux.conf`
+1. Copy `./.vimrc` to `~/.vimrc`.
+2. Copy `./tmux.conf` to `~/.tmux.conf`.
 
 ## Supported environment
 
